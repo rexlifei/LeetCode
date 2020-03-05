@@ -1,4 +1,5 @@
 '''
+https://leetcode-cn.com/problems/valid-palindrome/
 思路：先把数字和字母提取出来，然后反转，判断是否和原字符串一致。
 '''
 class Solution(object):
